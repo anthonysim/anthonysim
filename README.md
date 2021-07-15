@@ -3,7 +3,7 @@
 ### Welcome to my GitHub profile!
 
 <p>
-  My name is <strong>Anthony Sim</strong> and I am a software engineer from Southern California with experience working on full-stack application. I have a  background in accounting, auditing, and finance. I enjoy working with technologies such as React, NextJS, NodeJS/ExpressJS, MongoDB, PostgreSQL, and AWS.
+  My name is <strong>Anthony Sim</strong> and I am a software engineer from Southern California with experience working on full-stack application. I have a  background in accounting, auditing, and finance. I enjoy working with following technologies below:
 </p>
 
 ### Tech Stack
