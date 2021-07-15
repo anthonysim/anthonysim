@@ -39,7 +39,7 @@
 ### Connect with me!
 
 <p>
-  <a href="https://www.linkedin.com/in/sim-anthony/">
+  <a target="_blank" href="https://www.linkedin.com/in/sim-anthony/">
     <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
 </p>
