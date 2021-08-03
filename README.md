@@ -6,6 +6,14 @@
   My name is <strong>Anthony Sim</strong> and I am a <strong>full-stack software engineer</strong> from Southern California. I have a  background in accounting, auditing, and finance. I enjoy working with following technologies below:
 </p>
 
+### Connect with me!
+
+<p>
+  <a target="_blank" href="https://www.linkedin.com/in/sim-anthony/">
+    <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
+
 ### Tech Stack
 
 <p>
@@ -35,14 +43,6 @@
 
   <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
  </p>
-
-### Connect with me!
-
-<p>
-  <a target="_blank" href="https://www.linkedin.com/in/sim-anthony/">
-    <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
-  </a>
-</p>
 
 ### Github stats
 
