@@ -14,7 +14,7 @@
   </a>
   
   <a target="_blank" href="https://www.linkedin.com/in/sim-anthony/">
-    <img alt="Resume" src="https://img.shields.io/badge/Elm-60B5CC?style=for-the-badge&logo=elm&logoColor=white" />
+    <img alt="Resume" src="https://img.shields.io/badge/Resume-60B5CC?style=for-the-badge&logo=elm&logoColor=white" />
   </a>
 </p>
 
