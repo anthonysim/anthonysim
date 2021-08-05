@@ -12,6 +12,10 @@
   <a target="_blank" href="https://www.linkedin.com/in/sim-anthony/">
     <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
+  
+  <a target="_blank" href="https://www.linkedin.com/in/sim-anthony/">
+    <img alt="Resume" src="https://img.shields.io/badge/Elm-60B5CC?style=for-the-badge&logo=elm&logoColor=white" />
+  </a>
 </p>
 
 ### Tech Stack
