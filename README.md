@@ -12,8 +12,7 @@
   <a target="_blank" href="https://www.linkedin.com/in/sim-anthony/">
     <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
-</p>
-<p>
+  
   <a target="_blank" href="https://drive.google.com/file/d/1v4x9BUasrUOIPkUAkIix-X4Rfl2xZb4U/view?usp=sharing">
     <img alt="Resume" src="https://img.shields.io/badge/Resume-60B5CC?style=for-the-badge" />
   </a>
