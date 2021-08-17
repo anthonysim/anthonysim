@@ -1,3 +1,6 @@
+![LinkedIn-Banner](https://user-images.githubusercontent.com/31682285/129809774-a32b517a-c65b-4b5d-b671-a5d6e8b63e85.png)
+
+
 ### Hi there 👋 !
 
 ### Welcome to my GitHub profile!
