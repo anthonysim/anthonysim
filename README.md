@@ -1,5 +1,4 @@
-![LinkedIn-Banner](https://user-images.githubusercontent.com/31682285/129809774-a32b517a-c65b-4b5d-b671-a5d6e8b63e85.png)
-
+![LinkedIn-Banner](https://user-images.githubusercontent.com/31682285/151724093-4706b65f-d204-4acb-8515-442daa9bb4fa.png)
 
 ### Hi there 👋 !
 
