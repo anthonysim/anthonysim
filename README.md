@@ -5,7 +5,7 @@
 ### Welcome to my GitHub profile!
 
 <p>
-  My name is <strong>Anthony Sim</strong> and I am a <strong>full-stack software engineer</strong> from Southern California. I have a  background in accounting, auditing, and finance. I enjoy working with following technologies listed under <strong>Tech Stack!</strong>
+  My name is <strong>Anthony Sim</strong> and I am a <strong>software engineer</strong> from Southern California. I have a  background in accounting, auditing, and finance. I enjoy working with following technologies listed under <strong>Tech Stack!</strong>
 </p>
 
 ### Connect with me!
