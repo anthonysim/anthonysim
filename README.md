@@ -15,7 +15,7 @@ My name is <strong>Anthony Sim</strong> and I am a <strong>software engineer</st
     <img alt="Email" src="https://img.shields.io/badge/email-%23FF0000.svg?style=for-the-badge&logoColor=white)" />
   </a>
   
-  <a target="_blank" href="[[https://drive.google.com/file/d/1MJ8GeGwLb-0uwPI5lpLQwQM1ilE39goE/view?usp=sharing](https://drive.google.com/file/d/1TZ4x_8H0anK5cmW77AZ55WZbvghajmQV/view?usp=sharing)]">
+  <a target="_blank" href="https://drive.google.com/file/d/1TZ4x_8H0anK5cmW77AZ55WZbvghajmQV/view?usp=sharing">
     <img alt="Resume" src="https://img.shields.io/badge/Resume-60B5CC?style=for-the-badge" />
   </a>
 
