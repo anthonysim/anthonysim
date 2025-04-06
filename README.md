@@ -29,25 +29,25 @@ My name is <strong>Anthony Sim</strong> and I am a <strong>software engineer</st
 <div>
   <div>
       <div>
-         <strong>Frontend:</strong> React, TypeScript, JavaScript, HTML, CSS,‬‭ SASS, Tailwind CSS, Framer Motion, Styled Components‬ 
+         <strong>Frontend:</strong> React, Redux, TypeScript, JavaScript, HTML/CSS, SASS, Tailwind CSS, Framer Motion, Styled Components
       </div>
   </div>
     <br>
   <div>
       <div>
-       <strong>Backend:</strong> C#‬, Node/Express
+       <strong>Backend:</strong> Node/Express, ASP.NET
       ‭</div>
   </div>
     <br>
   <div>
       <div> 
-       <strong>Databases:</strong> PostgreSQL, MySQL‬, MongoDB
+       <strong>Databases:</strong> PostgreSQL, MySQL, MongoDB, CosmosDB
       ‭</div>
   </div>
     <br>
   <div>
    <div> 
-     <strong>Other:</strong> Python, Redux,‬‭ Git, AWS, Docker, New Relic, LoaderIO, Azure DevOp,‬‭ Restful API‬
+     <strong>Other:</strong> C#, Python, Git, AWS, Docker, New Relic, LoaderIO, Azure DevOp, Restful API
    ‭</div>
   </div>
 </div>
