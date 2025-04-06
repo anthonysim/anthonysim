@@ -35,7 +35,7 @@ My name is <strong>Anthony Sim</strong> and I am a <strong>software engineer</st
     <br>
   <div>
       <div>
-       <strong>Backend:</strong> Node/Express, C#‬
+       <strong>Backend:</strong> C#‬, Node/Express
       ‭</div>
   </div>
     <br>
