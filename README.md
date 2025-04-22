@@ -35,7 +35,7 @@ My name is <strong>Anthony Sim</strong>. I am a <strong>Frontend-focused Softwar
     <br>
   <div>
       <div>
-       <strong>Backend:</strong> Node/Express, ASP.NET
+       <strong>Backend:</strong> Node/Express, ASP.NET Web APIs
       ‭</div>
   </div>
     <br>
