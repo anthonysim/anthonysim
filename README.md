@@ -5,7 +5,7 @@
 ### Welcome to my GitHub profile!
 
 <div>
-My name is <strong>Anthony Sim</strong>. I am a <strong>Frontend-focused Software Engineer</strong> with a background in Accounting, Auditing, and Defense Contracting.
+My name is <strong>Anthony Sim</strong>. I am a <strong>Software Engineer</strong> with a background in Accounting, Auditing, and Defense Contracting.
 </div>
 
 ### Connect with me!
